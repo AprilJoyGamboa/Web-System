@@ -1,1 +1,22 @@
 Web System Development - Midterm Project COFFEE SHOP
+Access the website here : file:///C:/Users/admin/Documents/Coffee%20Shop/Midterm%20Lab/index.html
+
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/bd6d2d27-aeff-4347-b8e7-122b666b4f5f)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/7e6be968-c3b0-470b-b9ed-0f3889d06fde)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/b4d501dc-4033-447d-b37d-e9ccc1c57c72)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/9c1b0549-cbc7-420f-a616-b64d93d11296)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/90275301-6d0c-4f2e-97ff-18688df31060)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/895e912f-6f66-412a-b16b-f32f279fdde4)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/2a440f8a-3436-4c07-b461-1b084c3b0075)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/fca39a9f-8b49-4c08-88f6-d8c64c7a1988)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/7034c846-b55a-4b59-a3e1-a60c961aac9f)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/7da32d0d-2351-458a-a9d1-387b3a5714d9)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/ff586aa0-765a-4f94-a430-d036dededb47)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/00652d87-bcca-4ea4-bc62-1dc4e891637e)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/9b19f954-9722-47e0-98ae-3bc344984057)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/537551e3-065e-4cad-a320-7a1ff7ce2cd4)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/87403aa6-f0c5-41f1-9a37-fea1bc1bbb0d)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/8c9a3623-2418-4493-9949-2c72baf1ab11)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/2eef2d8d-dc89-4def-b495-8b15d593e48b)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/06f68727-1c13-4b42-9da6-b6a4a7346452)
+![image](https://github.com/AprilJoyGamboa/Web-System/assets/141934467/6db1a4ba-1bfa-4ed2-969e-5d2270501ebd)
